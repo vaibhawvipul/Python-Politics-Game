@@ -128,6 +128,9 @@ elif a == 1:
 						raw_input("")
 						print "\v\v\nPresident %r if you ignore to help Kamuri, We will support you in next elections." %f_name[0]
 						print "People of our religion will support you. Secondly, we may ignore your country from our HIT LIST as well!!"
+						time.sleep(1)
+						print "\nYour options are:\n1. Should we plan to offer an Armed force help?"
+						print "2. Or Negotitate with Terrorists."
 						g = int(raw_input("\nTake your decision \n>"))
 						if g == 2:
 							print "\nPresident %r day by day conditions in Kamuri got worse." %f_name[0]
