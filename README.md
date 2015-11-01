@@ -1,2 +1,3 @@
 # Python-Politics-Game
-Game based on politics and decision making! 
+
+Game based on politics and decision making! Based on concepts of game theoery.
